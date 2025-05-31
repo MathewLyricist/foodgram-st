@@ -1,0 +1,15 @@
+Django==5.2.1
+Pillow==11.2.1
+djangorestframework==3.16.0
+django-filter==25.1
+djoser==2.3.1
+environs==14.2.0
+jsonschema==4.23.0
+gunicorn==23.0.0
+psycopg==3.2.9
+pytest==6.2.4
+pytest-django==4.4.0
+pytest-lazy-fixture==0.6.3
+pytest-pythonpath==0.7.3
+python-dotenv==1.1.0 
+

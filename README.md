@@ -85,7 +85,6 @@ Docker автоматически загрузит образы, создаст 
     ~ sudo docker compose -f docker-compose.production.yml exec backend python manage.py data_loader
 
 - Если в базе отсутствуют нужные ингредиенты или теги, обратитесь к администратору.
-Остановка проекта
 
 # Остановка проекта
 
